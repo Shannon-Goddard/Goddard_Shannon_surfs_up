@@ -22,7 +22,7 @@ station = Base.classes.station
 session = Session(engine)
 # Define our Flask app
 app = Flask(__name__)
-# Define the welcome route 
+# Define the welcome route
 @app.route("/")
 def welcome():
 	return(
