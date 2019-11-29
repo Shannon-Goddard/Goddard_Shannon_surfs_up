@@ -1,4 +1,4 @@
-![header](/pics/header)
+![header](/pics/header.png)
 # Goddard_Shannon_surfs_up
 
 #### Table of Contents
