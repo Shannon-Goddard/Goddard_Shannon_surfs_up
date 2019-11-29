@@ -15,7 +15,7 @@ In this module, we spent time with new tools such as SQLite, SQLAlchemy, and Fla
 
 
 ## Resources
-- **Data Source:** [climate_analysis.ipynb](), [hawaii.sqlite]()
+- **Data Source:** [climate_analysis.ipynb](/climate_analysis.ipynb), [hawaii.sqlite](/hawaii.sqlite)
 - **Software:** SQLite, Flask, Python, Jupyter notebook  
 - **Dependencies:** SQLAlchemy, NumPy, Pandas, Matplotlib, Datetime
 ## Objectives
