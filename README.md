@@ -47,10 +47,10 @@ Identify key statistical data in June across all of the stations and years using
      width="250"/> <img src="/pics/June2016.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="250"/><img src="/pics/June2017.png"
+     width="240"/><img src="/pics/June2017.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="250"/>    
+     width="230"/>    
 <br/>
 Identify key statistical data in December across all stations and years using the describe() function.  
 <img src="/pics/Dec2015.png"
