@@ -35,7 +35,7 @@ We, also, used VS Code in this module to create our Flask application [app.py](/
 ![app](/pics/app.png)
 
 ## Challenge Overview
-The goals of this challenge are for us to:
+**The goals of this challenge are for us to:**
 - Determine key statistical data about the month of July.
 - Determine key statistical data about the month of December.
 - Compare your findings between the month of July and December.
@@ -45,7 +45,7 @@ The goals of this challenge are for us to:
 
 
 ## Challenge Summary
-Identify key statistical data in June across all of the stations and years using the describe() function.
+**Identify key statistical data in June across all of the stations and years using the describe() function.**
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JUNE 2015 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; JUNE 2016 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; JUNE 2017
 <img src="/pics/June2015.png"
      alt="Home Screen"
@@ -58,7 +58,7 @@ Identify key statistical data in June across all of the stations and years using
      style="float: left; margin-right: 40px;"
      width="230"/>    
 <br/>
-Identify key statistical data in December across all stations and years using the describe() function.  
+**Identify key statistical data in December across all stations and years using the describe() function.**  
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DEC 2015 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DEC 2016 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; DEC 2017
 <img src="/pics/Dec2015.png"
      alt="Home Screen"
@@ -74,7 +74,7 @@ Identify key statistical data in December across all stations and years using th
 <br/>
 <br/>
 <br/>
-Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.  
+**Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.**  
 <br/>
 ![compare](/pics/compare_pic.png)
 <br/>
