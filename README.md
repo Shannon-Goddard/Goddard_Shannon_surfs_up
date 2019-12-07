@@ -44,10 +44,10 @@ Identify key statistical data in June across all of the stations and years using
 <img src="/pics/June2015.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="250"/> <img src="/pics/June2016.png"
+     width="245"/> <img src="/pics/June2016.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="240"/><img src="/pics/June2017.png"
+     width="238"/><img src="/pics/June2017.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="230"/>    
