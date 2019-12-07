@@ -30,6 +30,7 @@ In this module, we spent time with new tools such as SQLite, SQLAlchemy, and Fla
 We used Jupyter Notebook for our precipitation and station analysis [climate_analysis.ipynb](/climate_analysis.ipynb)  
 
 We, also, used VS Code in this module to create our Flask application [app.py](/app.py).  
+<br/>
 **We displayed our results in a webpage**  
 ![app](/pics/app.png)
 
