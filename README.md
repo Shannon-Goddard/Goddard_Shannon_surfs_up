@@ -36,9 +36,9 @@ We, also, used VS Code in this module to create our Flask application: [app.py](
 
 ## Challenge Overview
 **The goals of this challenge are for us to:**
-- Determine key statistical data about the month of July.
+- Determine key statistical data about the month of June.
 - Determine key statistical data about the month of December.
-- Compare your findings between the month of July and December.
+- Compare your findings between the month of June and December.
 - Make 2 or 3 recommendations for further analysis.
 - Share your findings in the Jupyter Notebook.  
 
