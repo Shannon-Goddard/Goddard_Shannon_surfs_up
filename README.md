@@ -44,25 +44,25 @@ Identify key statistical data in June across all of the stations and years using
 <img src="/pics/June2015.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="310"/> <img src="/pics/June2016.png"
+     width="250"/> <img src="/pics/June2016.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="310"/><img src="/pics/June2017.png"
+     width="250"/><img src="/pics/June2017.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="310"/>    
+     width="250"/>    
 <br/>
 Identify key statistical data in December across all stations and years using the describe() function.  
 <img src="/pics/Dec2015.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="310"/> <img src="/pics/Dec2016.png"
+     width="250"/> <img src="/pics/Dec2016.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="310"/><img src="/pics/Dec2017.png"
+     width="250"/><img src="/pics/Dec2017.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="310"/>    
+     width="250"/>    
 <br/>
 Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.  
 ![compare](/pics/compare_pic.png)
