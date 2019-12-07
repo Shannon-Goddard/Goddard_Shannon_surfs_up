@@ -72,6 +72,7 @@ Share your findings in the Jupyter Notebook with a few sentences describing the 
 While there are a few specific use cases for SQLite, we focused on how it can be beneficial to us and where we might get the most value from it. The main advantages are:
 - It’s local. One of the core advantages of SQLite is that it allows you to create databases locally on your computer to support testing and easy prototyping. This is beneficial, because if you want to test something out and you need a database, it’s not always the most convenient to set up a SQL database server just to try something out.
 - There’s an app for that. Another advantage of SQLite databases are that they can be used on a mobile phone app. Most mobile phone games will use an SQLite database to store certain information about you or your players statistics. While we won’t be creating a mobile app in this module, it’s still helpful to understand the full context.  
+<br/>
 **SQLite Disadvantages**  
 SQLite also has a couple of disadvantages, however. They are:
 - It’s local. If you’ve used a MYSQL database before, you might have noticed that you can have multiple users access the database. With SQLite, there are no users. SQL is local: stored on one computer or phone. So, only that computer or phone will have access.
