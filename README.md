@@ -41,7 +41,17 @@ The goals of this challenge are for us to:
 
 ## Challenge Summary
 Identify key statistical data in June across all of the stations and years using the describe() function.  
-
+<img src="/pics/June2015.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="310"/> <img src="/pics/June2016.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 40px;"
+     width="500"/><img src="/pics/June2017.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 40px;"
+     width="500"/>    
+<br/>
 Identify key statistical data in December across all stations and years using the describe() function.  
 
 Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.  
