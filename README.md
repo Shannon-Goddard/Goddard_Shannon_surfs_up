@@ -41,9 +41,9 @@ The goals of this challenge are for us to:
 - Compare your findings between the month of July and December.
 - Make 2 or 3 recommendations for further analysis.
 - Share your findings in the Jupyter Notebook.  
-<br/>
-<br/>
-<br/>  
+
+
+
 ## Challenge Summary
 Identify key statistical data in June across all of the stations and years using the describe() function.
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JUNE 2015 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; JUNE 2016 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; JUNE 2017
