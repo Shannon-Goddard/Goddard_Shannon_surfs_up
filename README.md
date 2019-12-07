@@ -67,8 +67,16 @@ Identify key statistical data in December across all stations and years using th
      style="float: left; margin-right: 40px;"
      width="250"/>    
 <br/>
-Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.  
+<br/>
+<br/>
+<br/>
+Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.
+<br/>
 ![compare](/pics/compare_pic.png)
+<br/>
+<br/>
+<br/>
+<br/>
 ## Limitations
 **SQLite Advantages**  
 While there are a few specific use cases for SQLite, we focused on how it can be beneficial to us and where we might get the most value from it. The main advantages are:
